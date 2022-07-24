@@ -8,7 +8,7 @@ Took Refference from internet.</br></br>
 
 </br>
 #how-to-play</br>
-1. Escape from the obstacles and increase your score by collecting the bananas.
+1. Escape from the obstacles and increase your score by collecting the bananas. </br>
 2. Use space bar to jump.
 
  
